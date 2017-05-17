@@ -1,0 +1,22 @@
+imagens
+	-Comemorações
+		dia das crianças
+		dia das mães
+		dia dos País
+		Concílios
+
+	-Nossos Eventos
+		Batismos
+		Aniversario da Igreja
+		Culto dos Aniversariantes
+		1º Acampamento dos Ad
+		Boliche
+		Encontro de Casais
+		Hopi-hari
+		Homens-Praia
+		cha-Mulheres
+		Paintbal
+		Parque- Aquatico(Viva-Parque)
+		sitio
+		zoologico
+	-construções do terreno
